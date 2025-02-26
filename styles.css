@@ -1,4 +1,7 @@
 body {
-	background-color: #FFB140;
-    cursor: url('./cursor.ani'), default;
+	background-color: black;
+	font-family: Verdana;
+	color: white;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=45377);
+    align-content: center;
 }
